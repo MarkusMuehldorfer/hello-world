@@ -1,2 +1,2 @@
 # hello-world
-First try on GitHub and coding
+42
